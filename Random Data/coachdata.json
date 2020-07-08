@@ -1,0 +1,6536 @@
+[
+  {
+    "Name": "Bill",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Billy",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Blake",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Brady",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Brent",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Bronco",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Bryan",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Butch",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Chad",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Chip",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Chip",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Chris",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Chris",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Chuck",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Clay",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Craig",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Dabo",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Dan",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Dana",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Dana",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Danny",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Dave",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Dave",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Dave",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "David",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "David",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Derek",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Dino",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Doc",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Doug",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Ed",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Eliah",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Frank",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Gary",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Gary",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Geoff",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Greg",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Gus",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Herm",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Hugh",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jake",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "James",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jamey",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jason",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jay",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jay",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jeremy",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jim",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jim",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jimbo",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jimmy",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Jonathan",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Josh",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Justin",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Justin",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Kalani",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Kalen",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Karl",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Ken",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Kevin",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Kirby",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Kirk",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Kyle",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Lance",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Lane",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Les",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Lincoln",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Lovie",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Luke",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mack",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Manny",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Marcus",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mario",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mark",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mel",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Neal",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Nick",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Nick",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Pat",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Pat",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Paul",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Philip",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "PJ",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Randy",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Rick",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Ricky",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Rod",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Ryan",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Ryan",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Sam",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Scot",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Scott",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Scott",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Sean",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Seth",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Shawn",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Shawn",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Skip",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Sonny",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Steve",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Steve",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Thomas",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Tim",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Todd",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Tom",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Tom",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Tom",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Troy",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Tyson",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Walt",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Will",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Will",
+    "Type": "First",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Willie",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Willie",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Alex",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Andrew",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Andy",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Andy",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Anthony",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Barry",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Bill",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Bill",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Billy",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Bob",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Bodie",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Brad",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Brad",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Brent",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Brent",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Brent",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Bryan",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Bryant",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Cale",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Chad",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Charlie",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Charlie",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Chris",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Clint",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Courtney",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Curtis",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Darin",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Darrell",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Darrin",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Dave",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "David",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Derek",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Donnie",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Doug",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Drew",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Dwayne",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Eddie",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Eliah",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Eman",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Eric",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Eric",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Eric",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Frank",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Frank",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Garrett",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "George",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "George",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Gerad",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "GJ",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Glenn",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Graham",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Grant",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Ivin",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Jacob",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Jake",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "JaMarcus",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Jay",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Jerry",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Jim",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Jim",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Jim",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Joe",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Joe",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Joe",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Joey",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "John",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "John",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Joker",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Josh",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Justin",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kasey",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Keith",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kendal",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kenny",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kenny",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kent",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kevin",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kevin",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kevin",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kevin",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kirk",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kirk",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Larry",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mark",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mark",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Maurice",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Micah",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Newland",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Nick",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Noel",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Phil",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Philip",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Rhett",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Rich",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Rob",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Robert",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Robert",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Rod",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Ryan",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Ryan",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Ryan",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Scott",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Scottie",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Scotty",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Sean",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Shannon",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Sonny",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Sterlin",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Steve",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Steve",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Tavita",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Terry",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Tim",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Tim",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Tim",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Todd",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Todd",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Tom",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Tommy",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Tommy",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Tommy",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Tony",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Tony",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Tony",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Tony",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Warren",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Will",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Willy",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Zac",
+    "Type": "First",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Zak",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Adam",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Alex",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Andrew",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Andy",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Anthony",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Antonio",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Archie",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Barry",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Ben",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Blake",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Blake",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Blake",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Bo",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Bob",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brad",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brad",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brandon",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brandon",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brent",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brent",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Bryan",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Chad",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Chad",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Chris",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Chris",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Chuck",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Clark",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Clayton",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Clint",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Cort",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Craig",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Dale",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Dan",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "David",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "David",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "David",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Derrick",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Derrick",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Derrick",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "DJ",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Don",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Doug",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Ephraim",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Erik",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Frank",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Frank",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Glenn",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Greg",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Greg",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Ikaika",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Ilaisa",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jack",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jake",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jay",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jay",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jerod",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jerry",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jim",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jim",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jim",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jimmy",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Joe",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Joe",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Joe",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Joe",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "John",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "John",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jon",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jon",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Joseph",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Justin",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Kane",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Keith",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Keith",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Kelly",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Kerry",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Kevin",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Kevin",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Kurt",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Lance",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Lou",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Lou",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Lovie",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Lyle",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Marcus",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Marcus",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Marvin",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Maurice",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Morgan",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Nate",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Nathan",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Neal",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Nick",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Nick",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Patrick",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Paul",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Pete",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Pete",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Pete",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Peter",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Peter",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Phil",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Randy",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Randy",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Robb",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Robb",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Rocky",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Ron",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Ron",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Ryan",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Scot",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Scott",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Scott",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Scottie",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Spence",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Spencer",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Stacy",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Ted",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tem",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tim",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tim",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tim",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Todd",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Todd",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tom",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tommy",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tommy",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tony",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tony",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tony",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Travaris",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Travis",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tyler",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tyrone",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tyson",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Vic",
+    "Type": "First",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Victor",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Vince",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "William",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Zac",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Zach",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Adam",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Andre",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Andy",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Atif",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Ben",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Blake",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Bob",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Bob",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Bobby",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Bradley",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Brett",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Brian",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Calvin",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Charlie",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Chili",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Chris",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Chris",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Chris",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Chris",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Curt",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Dan",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Daniel",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Danny",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Danny",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "David",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Dennis",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Derek",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Devin",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Doug",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Doug",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Drew",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Ed",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Eddie",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Eric",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Erik",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Fred",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "George",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Greg",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Greg",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Heath",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jacob",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jake",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "James",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jamie",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jaron",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jay",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jay",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jay",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jeff",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jeremy",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Joe",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Joe",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Joe",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "John",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "John",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jonathan",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jonathan",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jordan",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Jovan",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Justin",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Kasey",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Keith",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Kevin",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Kirk",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Kyle",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Kyle",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Kyle",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Larry",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "LeVar",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Mark",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Mark",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Marty",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Matt",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Max",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Michael",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Mike",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Nate",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Nick",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Nick",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Nick",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Patrick",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Pete",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Pete",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Ricky",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Rob",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Robby",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Roc",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Ronnie",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Ross",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Ross",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Roy",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Scott",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Scott",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Sean",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Sean",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Shannon",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Sharrieff",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Shawn",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Shiel",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Stu",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Taiwo",
+    "Type": "First",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Tanner",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Thomas",
+    "Type": "First",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Todd",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Tommy",
+    "Type": "First",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Travis",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Tyler",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Wayne",
+    "Type": "First",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Willie",
+    "Type": "First",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Zac",
+    "Type": "First",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Allen",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Andersen",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Anderson",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Aranda",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Arroyo",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Arth",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Babers",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Bell",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Bloomgren",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Bohl",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Brennan",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Brohm",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Brown",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Brown",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Calhoun",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Campbell",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Candle",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Carey",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Chadwell",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Chryst",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Clark",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Clark",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Clawson",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Collins",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Creighton",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Cristobal",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Cutcliffe",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Davis",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Day",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "DeBoer",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Diaz",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Dimel",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Doeren",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Drinkwitz",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Dykes",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Edsall",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Edwards",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Elliott",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Ferentz",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Fickell",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Fisher",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Fitzgerald",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Fleck",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Franklin",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Freeze",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Fritz",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Fuente",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Gonzales",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Graham",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Gundy",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Hafley",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Hammock",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Harbaugh",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Harsin",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Healy",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Helton",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Helton",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Herman",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Heupel",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Hoke",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Holgorsen",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Holliday",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Holtz",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Houston",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Kelly",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Kelly",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Kiffin",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Lake",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Leach",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Leipold",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Lester",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Lewis",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Lindsey",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Littrell",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Locksley",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Loeffler",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Malzahn",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Martin",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Martin",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mason",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "McElwain",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mendenhall",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Miles",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Monken",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Montgomery",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Mullen",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Muschamp",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Napier",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Narduzzi",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Neu",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Niumatalolo",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Norvell",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Norvell",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Orgeron",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Pittman",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Rahne",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Riley",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Rolovich",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Saban",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Satterfield",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Schiano",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "HC"
+  },
+  {
+    "Name": "Scott",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Shaw",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Silverfield",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Sitake",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Smart",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Smith",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Smith",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Solich",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Spavital",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Stockstill",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Sumlin",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Swinney",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Taggart",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Traylor",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Tucker",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "HC"
+  },
+  {
+    "Name": "Viator",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "HC"
+  },
+  {
+    "Name": "Wells",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "HC"
+  },
+  {
+    "Name": "Whittingham",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Wilcox",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "HC"
+  },
+  {
+    "Name": "Albin",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Anae",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Aplin",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Austin",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Bajakian",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Barnett",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Beck",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Bloesch",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Bobo",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Briles",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Brohm",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Campbell",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Canales",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Carney",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Ciarrocca",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Cignetti",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Cornelsen",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Cramsey",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Creighton",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Davis",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Dawson",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Dearmon",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Denbrock",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Dickey",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Dillingham",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Donovan",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Drinkwitz",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Dunn",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Edenfield",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Eidsness",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Elliott",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Ellis",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Ensminger",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Fedora",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Ferentz",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Fitch",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Franklin",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Frye",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Frye",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Gattis",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Gilbert",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Giufre",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Gleeson",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Glenn",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Golesh",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Gonzales",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Grimes",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Grubb",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Gundy",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Hall",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Hallett",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Harrell",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Harris",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Heard",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Heckendorf",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Hecklinski",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Hevesy",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Hill",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Hinshaw",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Hull",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Isaac",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Isphording",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Jackson",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "James",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Jasper",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Johns",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Johnson",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kiesau",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kinne",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kirkpatrick",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Koehler",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Korn",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Kotelnicki",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Lashlee",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Leach",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Lebby",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Ledford",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Lindgren",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Longo",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Ludwig",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Lunney",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Luper",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Lynch",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mack",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mainord",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Malone",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Martin",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mazzone",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "McDonald",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "McGiven",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mehringer",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Monken",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Montgomery",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Montgomery",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Moorhead",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Moreland",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Morris",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Mumme",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Musgrave",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Naghavi",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Parker",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Patenaude",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Peeler",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Petersen",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Phillips",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Pritchard",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Pugh",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Reeder",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Rees",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Riley",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Roper",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Rudolph",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Ruggiero",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Sale",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Sanford",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Sarkisian",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Shepard",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Sheridan",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Simon",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Skrosky",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Sloan",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Smith",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Smith",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Sowder",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Thiessen",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Thomas",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Trickett",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Tucker",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Uremovich",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Vigen",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Vincent",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Walden",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Warehime",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "OC"
+  },
+  {
+    "Name": "Weiner",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Weis",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "OC"
+  },
+  {
+    "Name": "Whipple",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Wilson",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Yost",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Yurcich",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "OC"
+  },
+  {
+    "Name": "Zagorski",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "OC"
+  },
+  {
+    "Name": "Zebrowski",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "OC"
+  },
+  {
+    "Name": "Akey",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Albert",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Anderson",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Arnett",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Ash",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Avalos",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Azzinaro",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Baker",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Banda",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Banks",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Bateman",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Bates",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Belk",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Blackwell",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Borland",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Bowen",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brown",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brown",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Brumbaugh",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Burton",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Cauthen",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Collins",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Collins",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Collins",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Coombs",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Cooper",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Copp",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Cox",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Crum",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Cruz",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Curtis",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Danielson",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Dennison",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "DeRuyter",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Diaco",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Dickert",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Duggan",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Durkin",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Eliot",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Elko",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Esposito",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Feeney",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Freeman",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Fuller",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Fuqua",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Germano",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Gibson",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Gillespie",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Golding",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Grantham",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Guerrieri",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Hall",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Hamilton",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Hankwitz",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Hansen",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Harasymiak",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Harrell",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Hauser",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Hazelton",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Hemphill",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Heyward",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Hoke",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Howell",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Inge",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jackson",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Jones",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Kane",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Kaufman",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Kehres",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Knowles",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Knowles",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Koenning",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Kruse",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Kuligowski",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Kwiatkowski",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Lambert",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Lanning",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Lea",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Leavitt",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Leonhard",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Lewis",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Long",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Lukabu",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "MacIntyre",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Maile",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Malloe",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Mattison",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Mattix",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "McDaniel",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Neathery",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Newberry",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Nix",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Nowinsky",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Odom",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Odum",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Orlando",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Parker",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Partridge",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Patterson",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Pelini",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Pierce",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Poindexter",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Poppinga",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Price",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Pry",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Reeves",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Restivo",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Rhoads",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Roberts",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Robinson",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Roof",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Rossi",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Rudzinski",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Sawvel",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Scalley",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Schmedding",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Seiler",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Shafer",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Shannon",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Sirmon",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Smith",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Smith",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Smith",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Spanos",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Spavital",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "DC"
+  },
+  {
+    "Name": "Spaziani",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Spencer",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Staggs",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Steele",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Stewart",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Stockton",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Symons",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Thacker",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Thigpen",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tibesar",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "Toney",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Tuiaki",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "VanGorder",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Venables",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Walters",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Ward",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "DC"
+  },
+  {
+    "Name": "West",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "White",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "DC"
+  },
+  {
+    "Name": "White",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Williams",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "DC"
+  },
+  {
+    "Name": "Wommack",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "DC"
+  },
+  {
+    "Name": "Woody",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "DC"
+  },
+  {
+    "Name": "Alamar",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Allen",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Austin",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Baldus",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Banks",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Barnes",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Barton",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Bellantoni",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Benedict",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Biagi",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Blackmon",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Bolfing",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Boulware",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Brasfield",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Brock",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Brumfield",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Burns",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Cefalo",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Christian",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Christian",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Cochran",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Cookus",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Davis",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Deakin",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Denham",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Dewitt",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Diersen",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Discher",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Dougherty",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Ekeler",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Els",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Faanes",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Fairman",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Fitzsimmons",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Fountain",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Fritz",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Genyk",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Ghobrial",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Gideon",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Goebbel",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Gregory",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Guidici",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Haering",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Haines",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Harbaugh",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Helow",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Holt",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Hurd",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Kitchens",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Knox",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Krantz",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Lamb",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "LaRussa",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Lembo",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Ligashesky",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Lineburg",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Link",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Lorig",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Lowry",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Lustig",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Mason",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "McCarthy",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "McMahon",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Miller",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Moore",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Murphy",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Nunez",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Onatolu",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "O'Rourke",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Palcic",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Paopao",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Papuchis",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Paremski",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Patke",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Pearman",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Pentz",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Perry",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Peveto",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Phillips",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Polian",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Polly",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Popovich",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Porter",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Powell",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Powledge",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Prato",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Ragle",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Robinson",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Sage",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Saturnio",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Scheier",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Schmidt",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Schoonover",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Scott",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Segler",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Shah",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Shearer",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Sheffield",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Shibest",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Slocum",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Smith",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Smith",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Snyder",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Springer",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Svoboda",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Teegardin",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Tesh",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Thomas",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Thurin",
+    "Type": "Last",
+    "Region": "North East",
+    "Position": "ST"
+  },
+  {
+    "Name": "Thurmond",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Tommerdahl",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Toth",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Trickett",
+    "Type": "Last",
+    "Region": "South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Wallace",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Watson",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Wenger",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Whitworth",
+    "Type": "Last",
+    "Region": "Texas",
+    "Position": "ST"
+  },
+  {
+    "Name": "Wiesehan",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Williams",
+    "Type": "Last",
+    "Region": "West Coast",
+    "Position": "ST"
+  },
+  {
+    "Name": "Wood",
+    "Type": "Last",
+    "Region": "Dirty South",
+    "Position": "ST"
+  },
+  {
+    "Name": "Woods",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  },
+  {
+    "Name": "Wozniak",
+    "Type": "Last",
+    "Region": "Mid West",
+    "Position": "ST"
+  }
+]
